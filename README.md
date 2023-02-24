@@ -1,2 +1,2 @@
-# rep01
-repository 01
+# MyPublicRepo
+Public repository 01
